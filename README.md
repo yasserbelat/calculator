@@ -1,0 +1,1 @@
+Create a simple calculator that performs +, -, *, /, and ** operations. Use a loop for continuous user input, handle division by zero, and ensure invalid inputs are managed.
